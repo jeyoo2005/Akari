@@ -16,6 +16,8 @@ Akari is a puzzle game where the objective is to place lamps in a grid to light 
 - **Reset Button**: A button to reset the puzzle and remove all placed lamps.
 - **Puzzle Navigation**: Users can navigate between puzzles using "Next", "Previous", and "Random" buttons.
 
+![Puzzle Example](images/AkariExample.png)
+
 ### Running the Application
 
 To run the application in IntelliJ using Maven:
